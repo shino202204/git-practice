@@ -1,2 +1,3 @@
 test
 Gitを勉強しています
+GitHubを勉強しています
